@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/petal-framework/petal-cli/refs/heads/main/meta/petal-schema.json",
+    "name": "petal-template",
+    "version": "0.1.0",
+    "petal": "0.1.0",
+    "targets": ["web"],
+    "dependencies": {}
+}

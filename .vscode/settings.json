@@ -1,0 +1,5 @@
+{
+    "json.schemaDownload.trustedDomains": {
+        "https://raw.githubusercontent.com/petal-framework/petal-cli/refs/heads/main/meta/petal-schema.json": true
+    }
+}
