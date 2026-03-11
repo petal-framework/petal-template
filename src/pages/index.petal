@@ -1,7 +1,7 @@
 <script>
-    var count = @state(0);
+    @state var count = 0;
 </script>
 
-<button on:click={function() count -= 1}>-</button>
+<button on:click={count -= 1}>-</button>
 <span>{count}</span>
-<button on:click={function() count += 1}>+</button>
+<button on:click={count += 1}>+</button>
